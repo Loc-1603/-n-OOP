@@ -1,0 +1,9 @@
+C:\Users\hongh\source\repos\Đồ án OOP\bin\Debug\Đồ án OOP.exe.config
+C:\Users\hongh\source\repos\Đồ án OOP\bin\Debug\Đồ án OOP.exe
+C:\Users\hongh\source\repos\Đồ án OOP\bin\Debug\Đồ án OOP.pdb
+C:\Users\hongh\source\repos\Đồ án OOP\obj\Debug\Đồ án OOP.csproj.AssemblyReference.cache
+C:\Users\hongh\source\repos\Đồ án OOP\obj\Debug\Đồ_án_OOP.Properties.Resources.resources
+C:\Users\hongh\source\repos\Đồ án OOP\obj\Debug\Đồ án OOP.csproj.GenerateResource.cache
+C:\Users\hongh\source\repos\Đồ án OOP\obj\Debug\Đồ án OOP.csproj.CoreCompileInputs.cache
+C:\Users\hongh\source\repos\Đồ án OOP\obj\Debug\Đồ án OOP.exe
+C:\Users\hongh\source\repos\Đồ án OOP\obj\Debug\Đồ án OOP.pdb
