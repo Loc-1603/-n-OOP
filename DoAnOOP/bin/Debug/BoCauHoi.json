@@ -3,117 +3,7 @@
     "Title": "Toán",
     "Questions": [
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "CorrectAnswer": "2",
-        "Text": "Kết quả của phép tính 2 + 3 là bao nhiêu?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "CorrectAnswer": "2",
-        "Text": "Kết quả của phép tính 10 - 4 là bao nhiêu?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "10",
-          "12",
-          "14",
-          "16"
-        ],
-        "CorrectAnswer": "2",
-        "Text": "Kết quả của phép tính 3 x 4 là bao nhiêu?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "CorrectAnswer": "2",
-        "Text": "Kết quả của phép tính 20 ÷ 5 là bao nhiêu?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "1",
-          "3",
-          "5",
-          "8"
-        ],
-        "CorrectAnswer": "4",
-        "Text": "Số nào là số chẵn?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "4",
-          "6",
-          "7",
-          "8"
-        ],
-        "CorrectAnswer": "3",
-        "Text": "Số nào là số nguyên tố?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "14",
-          "15",
-          "16",
-          "17"
-        ],
-        "CorrectAnswer": "2",
-        "Text": "Kết quả của phép tính 7 + 8 là bao nhiêu?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "24",
-          "27",
-          "30",
-          "33"
-        ],
-        "CorrectAnswer": "2",
-        "Text": "Kết quả của phép tính 9 x 3 là bao nhiêu?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "CorrectAnswer": "2",
-        "Text": "Kết quả của phép tính 16 ÷ 4 là bao nhiêu?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "2",
-          "4",
-          "6",
-          "7"
-        ],
-        "CorrectAnswer": "4",
-        "Text": "Số nào là số lẻ?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "10",
           "11",
@@ -124,7 +14,7 @@
         "Text": "Kết quả của phép tính 5 + 6 là bao nhiêu?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "4",
           "5",
@@ -132,10 +22,21 @@
           "7"
         ],
         "CorrectAnswer": "2",
-        "Text": "Kết quả của phép tính 12 - 7 là bao nhiêu?"
+        "Text": "Kết quả của phép tính 2 + 3 là bao nhiêu?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
+        "Options": [
+          "10",
+          "12",
+          "14",
+          "16"
+        ],
+        "CorrectAnswer": "2",
+        "Text": "Kết quả của phép tính 3 x 4 là bao nhiêu?"
+      },
+      {
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "14",
           "16",
@@ -146,18 +47,51 @@
         "Text": "Kết quả của phép tính 8 x 2 là bao nhiêu?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
-          "5",
-          "6",
-          "7",
-          "8"
+          "9",
+          "11",
+          "12",
+          "15"
         ],
         "CorrectAnswer": "2",
-        "Text": "Kết quả của phép tính 18 ÷ 3 là bao nhiêu?"
+        "Text": "Số nào là số nguyên tố?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
+        "Options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "CorrectAnswer": "2",
+        "Text": "Kết quả của phép tính 20 ÷ 5 là bao nhiêu?"
+      },
+      {
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
+        "Options": [
+          "14",
+          "15",
+          "16",
+          "17"
+        ],
+        "CorrectAnswer": "2",
+        "Text": "Kết quả của phép tính 7 + 8 là bao nhiêu?"
+      },
+      {
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
+        "Options": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "CorrectAnswer": "2",
+        "Text": "Kết quả của phép tính 12 - 7 là bao nhiêu?"
+      },
+      {
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "9",
           "11",
@@ -168,29 +102,62 @@
         "Text": "Số nào là số chẵn?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
-          "12",
-          "13",
-          "14",
-          "15"
+          "5",
+          "6",
+          "7",
+          "8"
         ],
         "CorrectAnswer": "2",
-        "Text": "Kết quả của phép tính 4 + 9 là bao nhiêu?"
+        "Text": "Kết quả của phép tính 10 - 4 là bao nhiêu?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
-          "8",
-          "9",
-          "10",
-          "11"
+          "2",
+          "4",
+          "6",
+          "7"
+        ],
+        "CorrectAnswer": "4",
+        "Text": "Số nào là số lẻ?"
+      },
+      {
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
+        "Options": [
+          "24",
+          "27",
+          "30",
+          "33"
         ],
         "CorrectAnswer": "2",
-        "Text": "Kết quả của phép tính 15 - 6 là bao nhiêu?"
+        "Text": "Kết quả của phép tính 9 x 3 là bao nhiêu?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
+        "Options": [
+          "4",
+          "6",
+          "7",
+          "8"
+        ],
+        "CorrectAnswer": "3",
+        "Text": "Số nào là số nguyên tố?"
+      },
+      {
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
+        "Options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "CorrectAnswer": "2",
+        "Text": "Kết quả của phép tính 16 ÷ 4 là bao nhiêu?"
+      },
+      {
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "20",
           "21",
@@ -201,7 +168,51 @@
         "Text": "Kết quả của phép tính 7 x 3 là bao nhiêu?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
+        "Options": [
+          "12",
+          "13",
+          "14",
+          "15"
+        ],
+        "CorrectAnswer": "2",
+        "Text": "Kết quả của phép tính 4 + 9 là bao nhiêu?"
+      },
+      {
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
+        "Options": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ],
+        "CorrectAnswer": "2",
+        "Text": "Kết quả của phép tính 18 ÷ 3 là bao nhiêu?"
+      },
+      {
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
+        "Options": [
+          "1",
+          "3",
+          "5",
+          "8"
+        ],
+        "CorrectAnswer": "4",
+        "Text": "Số nào là số chẵn?"
+      },
+      {
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
+        "Options": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "CorrectAnswer": "2",
+        "Text": "Kết quả của phép tính 15 - 6 là bao nhiêu?"
+      },
+      {
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "3",
           "4",
@@ -210,242 +221,6 @@
         ],
         "CorrectAnswer": "2",
         "Text": "Kết quả của phép tính 24 ÷ 6 là bao nhiêu?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "9",
-          "11",
-          "12",
-          "15"
-        ],
-        "CorrectAnswer": "2",
-        "Text": "Số nào là số nguyên tố?"
-      }
-    ]
-  },
-  {
-    "Title": "Lý",
-    "Questions": [
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "kg",
-          "g",
-          "mg",
-          "tấn"
-        ],
-        "CorrectAnswer": "1",
-        "Text": "Đơn vị đo khối lượng trong hệ SI là gì?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "m",
-          "cm",
-          "km",
-          "mm"
-        ],
-        "CorrectAnswer": "1",
-        "Text": "Đơn vị đo độ dài trong hệ SI là gì?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "Trọng lực",
-          "Lực đẩy",
-          "Lực ma sát",
-          "Lực căng"
-        ],
-        "CorrectAnswer": "1",
-        "Text": "Lực hấp dẫn do Trái Đất tác dụng lên một vật được gọi là gì?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "N",
-          "J",
-          "W",
-          "Pa"
-        ],
-        "CorrectAnswer": "1",
-        "Text": "Đơn vị đo lực trong hệ SI là gì?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "Nhựa",
-          "Gỗ",
-          "Đồng",
-          "Thủy tinh"
-        ],
-        "CorrectAnswer": "3",
-        "Text": "Vật nào dẫn điện tốt nhất?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "Phản xạ",
-          "Khúc xạ",
-          "Tán xạ",
-          "Giao thoa"
-        ],
-        "CorrectAnswer": "2",
-        "Text": "Hiện tượng ánh sáng bị bẻ cong khi đi qua mặt phân cách giữa hai môi trường trong suốt được gọi là gì?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "W",
-          "J",
-          "N",
-          "Pa"
-        ],
-        "CorrectAnswer": "1",
-        "Text": "Đơn vị đo công suất trong hệ SI là gì?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "Sấm sét",
-          "Cầu vồng",
-          "Gió",
-          "Mưa"
-        ],
-        "CorrectAnswer": "2",
-        "Text": "Hiện tượng nào sau đây là hiện tượng quang học?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "V",
-          "A",
-          "Ω",
-          "W"
-        ],
-        "CorrectAnswer": "1",
-        "Text": "Đơn vị đo điện áp trong hệ SI là gì?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "Đồng",
-          "Nhôm",
-          "Nhựa",
-          "Sắt"
-        ],
-        "CorrectAnswer": "3",
-        "Text": "Vật nào cách điện tốt nhất?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "Sấm sét",
-          "Cầu vồng",
-          "Nóng chảy",
-          "Gió"
-        ],
-        "CorrectAnswer": "3",
-        "Text": "Hiện tượng nào sau đây là hiện tượng nhiệt học?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "°C",
-          "K",
-          "°F",
-          "J"
-        ],
-        "CorrectAnswer": "2",
-        "Text": "Đơn vị đo nhiệt độ trong hệ SI là gì?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "Sấm sét",
-          "Cầu vồng",
-          "Dòng điện",
-          "Gió"
-        ],
-        "CorrectAnswer": "3",
-        "Text": "Hiện tượng nào sau đây là hiện tượng điện từ?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "Ω",
-          "V",
-          "A",
-          "W"
-        ],
-        "CorrectAnswer": "1",
-        "Text": "Đơn vị đo điện trở trong hệ SI là gì?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "Nhựa",
-          "Gỗ",
-          "Đồng",
-          "Thủy tinh"
-        ],
-        "CorrectAnswer": "3",
-        "Text": "Vật nào dẫn nhiệt tốt nhất?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "Sấm sét",
-          "Cầu vồng",
-          "Chuyển động",
-          "Gió"
-        ],
-        "CorrectAnswer": "3",
-        "Text": "Hiện tượng nào sau đây là hiện tượng cơ học?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "J",
-          "W",
-          "N",
-          "Pa"
-        ],
-        "CorrectAnswer": "1",
-        "Text": "Đơn vị đo năng lượng trong hệ SI là gì?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "Sấm sét",
-          "Cầu vồng",
-          "Âm thanh",
-          "Gió"
-        ],
-        "CorrectAnswer": "3",
-        "Text": "Hiện tượng nào sau đây là hiện tượng âm học?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "A",
-          "V",
-          "Ω",
-          "W"
-        ],
-        "CorrectAnswer": "1",
-        "Text": "Đơn vị đo cường độ dòng điện trong hệ SI là gì?"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "Đồng",
-          "Nhôm",
-          "Nhựa",
-          "Sắt"
-        ],
-        "CorrectAnswer": "3",
-        "Text": "Vật nào cách nhiệt tốt nhất?"
       }
     ]
   },
@@ -453,7 +228,7 @@
     "Title": "Hóa",
     "Questions": [
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Heli",
           "Hydro",
@@ -464,7 +239,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là H?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Oxi",
           "Nitơ",
@@ -475,7 +250,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là O?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Natri",
           "Kali",
@@ -486,7 +261,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là Na?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Clo",
           "Flo",
@@ -497,7 +272,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là Cl?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Cacbon",
           "Nitơ",
@@ -508,7 +283,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là C?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Sắt",
           "Đồng",
@@ -519,7 +294,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là Fe?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nitơ",
           "Oxi",
@@ -530,7 +305,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là N?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Lưu huỳnh",
           "Clo",
@@ -541,7 +316,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là S?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Kali",
           "Natri",
@@ -552,7 +327,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là K?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Canxi",
           "Kali",
@@ -563,7 +338,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là Ca?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Magie",
           "Canxi",
@@ -574,7 +349,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là Mg?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nhôm",
           "Sắt",
@@ -585,7 +360,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là Al?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Kẽm",
           "Nhôm",
@@ -596,7 +371,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là Zn?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Đồng",
           "Nhôm",
@@ -607,7 +382,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là Cu?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Bạc",
           "Đồng",
@@ -618,7 +393,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là Ag?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Vàng",
           "Bạc",
@@ -629,7 +404,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là Au?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Chì",
           "Thiếc",
@@ -640,7 +415,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là Pb?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Thiếc",
           "Chì",
@@ -651,7 +426,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là Sn?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Thủy ngân",
           "Chì",
@@ -662,7 +437,7 @@
         "Text": "Nguyên tố nào có ký hiệu hóa học là Hg?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Photpho",
           "Lưu huỳnh",
@@ -678,7 +453,7 @@
     "Title": "Văn",
     "Questions": [
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nam Cao",
           "Nguyễn Du",
@@ -689,7 +464,7 @@
         "Text": "Tác giả của truyện ngắn \"Chí Phèo\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nam Cao",
           "Nguyễn Du",
@@ -700,7 +475,7 @@
         "Text": "Tác giả của truyện ngắn \"Lão Hạc\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nam Cao",
           "Nguyễn Du",
@@ -711,7 +486,7 @@
         "Text": "Tác giả của truyện ngắn \"Số đỏ\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nam Cao",
           "Nguyễn Du",
@@ -722,7 +497,7 @@
         "Text": "Tác giả của truyện ngắn \"Tắt đèn\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nam Cao",
           "Nguyễn Du",
@@ -733,7 +508,7 @@
         "Text": "Tác giả của truyện ngắn \"Truyện Kiều\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nam Cao",
           "Nguyễn Tuân",
@@ -744,7 +519,7 @@
         "Text": "Tác giả của truyện ngắn \"Chữ người tử tù\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Kim Lân",
           "Nguyễn Du",
@@ -755,7 +530,7 @@
         "Text": "Tác giả của truyện ngắn \"Vợ nhặt\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Thạch Lam",
           "Nguyễn Du",
@@ -766,7 +541,7 @@
         "Text": "Tác giả của truyện ngắn \"Hai đứa trẻ\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nguyễn Trung Thành",
           "Nguyễn Du",
@@ -777,7 +552,7 @@
         "Text": "Tác giả của truyện ngắn \"Rừng xà nu\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Tô Hoài",
           "Nguyễn Du",
@@ -788,7 +563,7 @@
         "Text": "Tác giả của truyện ngắn \"Vợ chồng A Phủ\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nguyễn Quang Sáng",
           "Nguyễn Du",
@@ -799,7 +574,7 @@
         "Text": "Tác giả của truyện ngắn \"Chiếc lược ngà\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nguyễn Minh Châu",
           "Nguyễn Du",
@@ -810,7 +585,7 @@
         "Text": "Tác giả của truyện ngắn \"Bến quê\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Lê Minh Khuê",
           "Nguyễn Du",
@@ -821,7 +596,7 @@
         "Text": "Tác giả của truyện ngắn \"Những ngôi sao xa xôi\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nam Cao",
           "Nguyễn Du",
@@ -832,7 +607,7 @@
         "Text": "Tác giả của truyện ngắn \"Đôi mắt\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nguyễn Khải",
           "Nguyễn Du",
@@ -843,7 +618,7 @@
         "Text": "Tác giả của truyện ngắn \"Một người Hà Nội\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Lỗ Tấn",
           "Nguyễn Du",
@@ -854,7 +629,7 @@
         "Text": "Tác giả của truyện ngắn \"Cố hương\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Anton Chekhov",
           "Nguyễn Du",
@@ -865,7 +640,7 @@
         "Text": "Tác giả của truyện ngắn \"Người trong bao\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Thạch Lam",
           "Nguyễn Du",
@@ -876,7 +651,7 @@
         "Text": "Tác giả của truyện ngắn \"Hai đứa trẻ\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Tô Hoài",
           "Nguyễn Du",
@@ -887,7 +662,7 @@
         "Text": "Tác giả của truyện ngắn \"Dế Mèn phiêu lưu ký\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nam Cao",
           "Nguyễn Du",
@@ -898,7 +673,7 @@
         "Text": "Tác giả của truyện ngắn \"Sống mòn\" là ai?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Kim Lân",
           "Nguyễn Du",
@@ -914,7 +689,7 @@
     "Title": "Sử",
     "Questions": [
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Lý Thái Tổ",
           "Lê Thái Tổ",
@@ -925,7 +700,7 @@
         "Text": "Ai là vị vua đầu tiên của nước Việt Nam?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "938",
           "981",
@@ -936,7 +711,7 @@
         "Text": "Trận chiến Bạch Đằng diễn ra vào năm nào?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Lê Lợi",
           "Nguyễn Huệ",
@@ -947,7 +722,7 @@
         "Text": "Ai là người lãnh đạo cuộc khởi nghĩa Lam Sơn?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "1945",
           "1954",
@@ -958,7 +733,7 @@
         "Text": "Chiến thắng Điện Biên Phủ diễn ra vào năm nào?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Phan Bội Châu",
           "Phan Châu Trinh",
@@ -969,7 +744,7 @@
         "Text": "Ai là người khởi xướng phong trào Đông Du?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "40",
           "43",
@@ -980,7 +755,7 @@
         "Text": "Cuộc khởi nghĩa Hai Bà Trưng diễn ra vào năm nào?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nguyễn Huệ",
           "Lê Lợi",
@@ -991,7 +766,7 @@
         "Text": "Ai là người lãnh đạo cuộc khởi nghĩa Tây Sơn?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "1789",
           "1802",
@@ -1002,7 +777,7 @@
         "Text": "Chiến thắng Ngọc Hồi - Đống Đa diễn ra vào năm nào?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Hoàng Hoa Thám",
           "Phan Đình Phùng",
@@ -1013,7 +788,7 @@
         "Text": "Ai là người lãnh đạo cuộc khởi nghĩa Yên Thế?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "1940",
           "1945",
@@ -1024,7 +799,7 @@
         "Text": "Cuộc khởi nghĩa Nam Kỳ diễn ra vào năm nào?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Phạm Bành",
           "Đinh Công Tráng",
@@ -1035,7 +810,7 @@
         "Text": "Ai là người lãnh đạo cuộc khởi nghĩa Ba Đình?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "1789",
           "1802",
@@ -1046,7 +821,7 @@
         "Text": "Chiến thắng Đống Đa diễn ra vào năm nào?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Phan Đình Phùng",
           "Hoàng Hoa Thám",
@@ -1057,7 +832,7 @@
         "Text": "Ai là người lãnh đạo cuộc khởi nghĩa Hương Khê?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "1883",
           "1885",
@@ -1068,7 +843,7 @@
         "Text": "Cuộc khởi nghĩa Bãi Sậy diễn ra vào năm nào?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Tôn Thất Thuyết",
           "Phan Đình Phùng",
@@ -1079,7 +854,7 @@
         "Text": "Ai là người lãnh đạo cuộc khởi nghĩa Cần Vương?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "7/5/1954",
           "30/4/1975",
@@ -1090,7 +865,7 @@
         "Text": "Chiến thắng Điện Biên Phủ kết thúc vào ngày nào?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Nguyễn Ái Quốc",
           "Trần Phú",
@@ -1101,7 +876,7 @@
         "Text": "Ai là người lãnh đạo cuộc khởi nghĩa Xô Viết Nghệ Tĩnh?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "1930",
           "1940",
@@ -1112,7 +887,7 @@
         "Text": "Cuộc khởi nghĩa Yên Bái diễn ra vào năm nào?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Đội Cấn",
           "Lương Ngọc Quyến",
@@ -1123,7 +898,7 @@
         "Text": "Ai là người lãnh đạo cuộc khởi nghĩa Thái Nguyên?"
       },
       {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
+        "$type": "DoAnOOP.Models.MultipleChoiceQuestion, Đồ án OOP",
         "Options": [
           "Giải phóng miền Nam",
           "Kết thúc chiến tranh Đông Dương",
@@ -1132,44 +907,6 @@
         ],
         "CorrectAnswer": "1",
         "Text": "Chiến thắng 30/4/1975 đánh dấu sự kiện gì?"
-      }
-    ]
-  },
-  {
-    "Title": "1",
-    "Questions": [
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "1",
-          "2",
-          "1",
-          "2"
-        ],
-        "CorrectAnswer": "1",
-        "Text": "2"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "1",
-          "123",
-          "213",
-          ""
-        ],
-        "CorrectAnswer": "213",
-        "Text": "2"
-      },
-      {
-        "$type": "DoAnOOP.MultipleChoiceQuestion, Đồ án OOP",
-        "Options": [
-          "2",
-          "2",
-          "2",
-          "2"
-        ],
-        "CorrectAnswer": "2",
-        "Text": "23"
       }
     ]
   }

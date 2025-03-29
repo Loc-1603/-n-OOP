@@ -10,3 +10,15 @@ C:\Users\hongh\source\repos\Đồ án OOP\obj\Debug\Đồ án OOP.pdb
 C:\Users\hongh\source\repos\Đồ án OOP\bin\Debug\Newtonsoft.Json.dll
 C:\Users\hongh\source\repos\Đồ án OOP\bin\Debug\Newtonsoft.Json.xml
 C:\Users\hongh\source\repos\Đồ án OOP\obj\Debug\DoAnOOP.csproj.Up2Date
+C:\Users\hongh\Downloads\DoAnOOP\DoAnOOP\obj\Debug\DoAnOOP.csproj.AssemblyReference.cache
+C:\Users\hongh\Downloads\DoAnOOP\DoAnOOP\obj\Debug\Đồ_án_OOP.Properties.Resources.resources
+C:\Users\hongh\Downloads\DoAnOOP\DoAnOOP\obj\Debug\DoAnOOP.csproj.GenerateResource.cache
+C:\Users\hongh\Downloads\DoAnOOP\DoAnOOP\obj\Debug\DoAnOOP.csproj.CoreCompileInputs.cache
+C:\Users\hongh\Downloads\DoAnOOP\DoAnOOP\bin\Debug\Đồ án OOP.exe.config
+C:\Users\hongh\Downloads\DoAnOOP\DoAnOOP\bin\Debug\Đồ án OOP.exe
+C:\Users\hongh\Downloads\DoAnOOP\DoAnOOP\bin\Debug\Đồ án OOP.pdb
+C:\Users\hongh\Downloads\DoAnOOP\DoAnOOP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hongh\Downloads\DoAnOOP\DoAnOOP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hongh\Downloads\DoAnOOP\DoAnOOP\obj\Debug\DoAnOOP.csproj.Up2Date
+C:\Users\hongh\Downloads\DoAnOOP\DoAnOOP\obj\Debug\Đồ án OOP.exe
+C:\Users\hongh\Downloads\DoAnOOP\DoAnOOP\obj\Debug\Đồ án OOP.pdb
